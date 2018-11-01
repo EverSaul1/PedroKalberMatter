@@ -19,6 +19,10 @@
         <activity
             android:name=".HomeActivity"
             android:label="@string/title_activity_home"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Qr"
+            android:label="@string/title_activity_qr"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
