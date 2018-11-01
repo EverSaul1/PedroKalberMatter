@@ -6,8 +6,13 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_camera"
+<<<<<<< HEAD
             android:icon="@drawable/ic_menu_camera"
             android:title="Escaner" />
+=======
+            android:icon="@drawable/acont"
+            android:title="Reporte" />
+>>>>>>> d786f810a7f58fc18103d20493c2fb1a82708f40
         <item
             android:id="@+id/nav_gallery"
             android:icon="@drawable/ic_menu_gallery"
